@@ -1,0 +1,27 @@
+[
+  {
+    "id": "weeknight-garlic-butter-pasta",
+    "title": "Snelle pasta met knoflookboter",
+    "category": "Hoofdgerecht",
+    "tags": ["snel", "vegetarisch", "pasta"],
+    "time": "20 min",
+    "servings": 4,
+    "ingredients": [
+      "350 gr spaghetti",
+      "4 el boter",
+      "5 tenen knoflook, fijngesnipperd",
+      "50 gr geraspte parmezaan",
+      "60 ml kookvocht van de pasta",
+      "2 el gehakte peterselie",
+      "Peper en zout, naar smaak"
+    ],
+    "steps": [
+      "Kook de spaghetti in gezouten water tot ze al dente is. Bewaar een scheutje kookvocht voordat je afgiet.",
+      "Smelt de boter in een grote pan op middelhoog vuur. Voeg de knoflook toe en bak ongeveer 1 minuut tot geurig.",
+      "Voeg de afgegoten pasta toe aan de pan samen met een scheutje kookvocht. Meng goed.",
+      "Roer de parmezaan erdoor tot een lichte saus ontstaat, voeg indien nodig extra kookvocht toe.",
+      "Breng op smaak met peper en zout, werk af met peterselie en serveer meteen."
+    ],
+    "notes": "Voeg chilivlokken toe voor wat pit, of meng er gebakken garnalen door voor een steviger gerecht."
+  }
+]
