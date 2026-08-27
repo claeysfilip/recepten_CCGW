@@ -1,5 +1,62 @@
 [
   {
+    "id": "crostini-boschampignons-mascarpone",
+    "title": "Crostini met boschampignons en mascarpone",
+    "category": "Voorgerecht",
+    "tags": ["paddenstoelen", "borrelhap", "italiaans"],
+    "time": "20 min",
+    "ingredients": [
+      "500 gr bospaddenstoelen",
+      "Olijfolie",
+      "Peper",
+      "Zeezout",
+      "Boter",
+      "2 teentjes knoflook",
+      "Verse tijm",
+      "Citroen",
+      "250 gr mascarpone",
+      "Peterselie",
+      "Ciabatta"
+    ],
+    "steps": [
+      "Reinig de paddenstoelen en bak ze goed aan in olijfolie.",
+      "Voeg boter, zout, knoflook, tijm, peper en zout toe. De boter moet volledig opgenomen zijn door de paddenstoelen.",
+      "Werk af met een beetje citroensap.",
+      "Rooster de ciabatta, besmeer met mascarpone en dresseer met de paddenstoelen erbovenop."
+    ]
+  },
+  {
+    "id": "tagliolini-coquilles-truffel-citroenboter",
+    "title": "Tagliolini met coquilles, truffel en citroenboter",
+    "category": "Hoofdgerecht",
+    "tags": ["pasta", "vis", "schaaldieren", "italiaans"],
+    "time": "45 min",
+    "servings": 4,
+    "ingredients": [
+      "700 gr verse tagliolini of tagliatelle (of 600 gr droge pasta)",
+      "18 grote coquilles (2 per persoon)",
+      "100 gr boter (goede kwaliteit)",
+      "1 kleine sjalot, fijngehakt",
+      "1 teentje knoflook, fijngehakt",
+      "1 citroen (rasp + sap)",
+      "1 el olijfolie",
+      "50 ml witte wijn",
+      "1 el truffeltapenade",
+      "50 gr Parmezaan, fijn geraspt",
+      "Peper en zout",
+      "Verse peterselie of bieslook om af te werken"
+    ],
+    "steps": [
+      "Pasta koken: kook de pasta in gezouten water tot beetgaar. Bewaar een kopje kookvocht en giet af.",
+      "Coquilles bakken: dep de coquilles goed droog met keukenpapier en kruid met zout en peper. Verhit olijfolie in een hete pan en bak de coquilles 1 à 1,5 minuut per kant tot goudbruin. Haal uit de pan en hou warm onder folie.",
+      "Citroenboter maken: voeg in dezelfde pan de boter toe en laat smelten op middelhoog vuur. Voeg de sjalot en knoflook toe en laat zachtjes glazig worden. Blus met witte wijn en laat even inkoken. Voeg citroenrasp, een kneepje citroensap en de truffeltapenade toe en roer tot een gladde saus.",
+      "Alles samenbrengen: voeg de pasta toe aan de saus met een scheutje kookvocht. Laat doorwarmen tot de saus mooi bindt aan de pasta. Meng er de Parmezaan onder. Breng op smaak met peper, zout en eventueel wat extra citroensap.",
+      "Serveren: dresseer de pasta in het midden van een bord, leg er twee gebakken coquilles bovenop. Werk af met geschaafde truffel (indien voorhanden) en verse kruiden."
+    ]
+  }
+]
+[
+  {
     "id": "weeknight-garlic-butter-pasta",
     "title": "Snelle pasta met knoflookboter",
     "category": "Hoofdgerecht",
