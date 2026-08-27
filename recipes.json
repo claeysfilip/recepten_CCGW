@@ -1,5 +1,50 @@
 [
   {
+    "id": "ossobuco-risotto-milanese",
+    "title": "Ossobuco met risotto Milanese",
+    "category": "Hoofdgerecht",
+    "tags": ["kalfsvlees", "stoofpot", "italiaans"],
+    "time": "3 uur",
+    "servings": 4,
+    "ingredients": [
+      "Olijfolie",
+      "4 kalfsschenkels (ongeveer 3 cm dik)",
+      "Bloem",
+      "2 uien, fijngesneden",
+      "2 wortels, in brunoise",
+      "3 stengels bleekselderij, in brunoise",
+      "4 teentjes knoflook, fijngehakt",
+      "1 kg gepelde tomaten",
+      "1 fles droge witte wijn",
+      "1 liter runder- of kalfsbouillon",
+      "3 laurierblaadjes (liefst verse)",
+      "8 takjes tijm",
+      "Zout en peper naar smaak",
+      "2 sjalotjes",
+      "700 gr risotto Arborio of Carnaroli",
+      "Boter",
+      "2,5 liter bouillon",
+      "Parmezaanse kaas",
+      "Saffraandraadjes",
+      "Voor de gremolata: fijngehakte platte peterselie",
+      "1 citroen",
+      "1 teentje knoflook, fijngehakt (voor gremolata)"
+    ],
+    "steps": [
+      "Bestrooi de kalfsschenkels met zout, peper en bloem. Schud overtollige bloem af.",
+      "Verhit 2 eetlepels olijfolie in een grote braadpan en bak de schenkels aan beide kanten goudbruin. Haal ze uit de pan en zet apart.",
+      "Voeg de resterende olijfolie toe aan de pan en bak de ui, wortels, bleekselderij en knoflook op middelhoog vuur tot ze zacht zijn.",
+      "Blus af met de witte wijn en laat 2-3 minuten inkoken.",
+      "Voeg de tomaten, bouillon, laurier en tijm toe. Roer goed door en breng op smaak met zout en peper.",
+      "Leg de schenkels terug in de pan zodat ze grotendeels onderstaan. Laat 2 tot 3 uur zachtjes sudderen met de deksel schuin op de pan. Draai de schenkels halverwege om.",
+      "Gremolata: boen de citroen goed schoon met water en maak droog. Schil met een dunschiller ongeveer de helft van de citroen en snijd de schil heel fijn. Meng vlak voor het serveren de peterselie, citroenschil en knoflook door elkaar.",
+      "Serveer de ossobuco met een flinke lepel saus en garneer met de gremolata."
+    ],
+    "notes": "De ingrediëntenlijst bevat ook risotto Arborio, saffraan, boter en Parmezaan voor een risotto Milanese als bijgerecht, maar de bereidingsstappen hiervoor ontbraken in het originele recept — nog aan te vullen. Aantal kalfsschenkels aangepast naar 4 (1 per persoon); pas aan indien anders bedoeld."
+  }
+]
+[
+  {
     "id": "crostini-boschampignons-mascarpone",
     "title": "Crostini met boschampignons en mascarpone",
     "category": "Voorgerecht",
