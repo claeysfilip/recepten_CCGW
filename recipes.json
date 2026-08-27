@@ -1,5 +1,37 @@
 [
   {
+    "id": "risotto-pantalon-del-mar",
+    "title": "Risotto 'Pantalon del Mar'",
+    "category": "Hoofdgerecht",
+    "tags": ["risotto", "paddenstoelen", "italiaans"],
+    "time": "45 min",
+    "servings": 4,
+    "ingredients": [
+      "400 gr risottorijst",
+      "100 gr pancetta",
+      "1 ajuin",
+      "1 citroen",
+      "1 bussel bladpeterselie",
+      "1 teentje knoflook",
+      "150 gr geraspte parmigiano",
+      "± 2 liter bouillon (gedroogde eekhoorntjesbrood, bouquet garni, witte wijn, look, water)",
+      "300 gr mix bospaddenstoelen",
+      "Peper",
+      "Zout",
+      "Boter"
+    ],
+    "steps": [
+      "Stoof de fijngesneden ajuin, pancettablokjes, look, peterselie-steeltjes en citroenzeste zachtjes aan zonder te kleuren.",
+      "Voeg de rijst toe en blus met een glas witte wijn.",
+      "Voeg gedurende 15-20 minuten lepels bouillon toe en laat opnemen door de rijst op zacht vuur.",
+      "Bak ondertussen in een aparte pan de mix bospaddenstoelen.",
+      "Als de rijst beetgaar is, voeg de geraspte kaas en koude boter toe en roer tot een romige consistentie.",
+      "Meng de paddenstoelen erdoor, kruid naar smaak, en werk af met citroensap en fijngesneden peterselie."
+    ]
+  }
+]
+[
+  {
     "id": "ossobuco-risotto-milanese",
     "title": "Ossobuco met risotto Milanese",
     "category": "Hoofdgerecht",
