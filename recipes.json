@@ -195,6 +195,7 @@
     ],
     "time": "3 uur",
     "servings": 4,
+    "image": "images/ossobuco.jpg",
     "ingredients": [
       "Olijfolie",
       "4 kalfsschenkels (ongeveer 3 cm dik)",
@@ -304,6 +305,7 @@
       "witloof"
     ],
     "time": "1 uur",
+    "image": "images/witloofsoep.jpg",
     "ingredients": [
       "2 kilo witloof",
       "4 aardappelen",
@@ -337,6 +339,7 @@
       "herfst"
     ],
     "time": "2 uur",
+    "image": "images/hert.jpg",
     "ingredients": [
       "Hertenfilet, min. 2 kilo",
       "500 gr spruiten",
