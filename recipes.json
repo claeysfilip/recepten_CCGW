@@ -1,5 +1,116 @@
 [
   {
+    "id": "sint-jakobsvruchten-aziatisch",
+    "title": "Sint-Jakobsvruchten met Aziatische vinaigrette",
+    "category": "Voorgerecht",
+    "tags": ["vis", "schaaldieren", "aziatisch"],
+    "time": "30 min",
+    "servings": 4,
+    "ingredients": [
+      "3 sint-jakobsvruchten per persoon",
+      "Arachideolie",
+      "Look (knoflook)",
+      "Sojascheuten",
+      "Lente-ui",
+      "Gember",
+      "Limoen",
+      "Verse koriander",
+      "Rood pepertje",
+      "1 à 2 sjalotjes",
+      "Ongezouten pinda's",
+      "Sojasaus",
+      "Sesamolie",
+      "Suiker"
+    ],
+    "steps": [
+      "Maak de vinaigrette: meng geraspte gember, sojasaus, sesamolie, limoensap, suiker en koriander.",
+      "Fruit de fijngesnipperde sjalotjes krokant en laat ze afkoelen.",
+      "Rooster de ongezouten pinda's in een droge pan zonder vetstof en maal ze fijn in de blender.",
+      "Verhit arachideolie in een pannetje, voeg de lente-ui toe en haal van het vuur. Laat afkoelen.",
+      "Verhit arachideolie in een (grill)pan op hoog vuur en schroei de sint-jakobsvruchten aan beide kanten dicht.",
+      "Voeg wat olie met lente-ui en geraspte knoflook toe aan de vruchten.",
+      "Snijd gember, lente-ui en rode chilipeper in julienne voor de garnering.",
+      "Serveren: leg wat sojascheuten op het bord, leg de gebakken sint-jakobsvruchten erop, werk af met de groentejulienne, de gefruite sjalot en de pindacrumble. Lepel er wat vinaigrette over en geef de rest apart erbij."
+    ],
+    "notes": "Kookclub 18/11/2017."
+  },
+  {
+    "id": "bouillabaisse",
+    "title": "Bouillabaisse",
+    "category": "Hoofdgerecht",
+    "tags": ["vis", "schaaldieren", "frans"],
+    "time": "1 uur",
+    "servings": 4,
+    "image": "images/bouillabaisse-wijnen.jpg",
+    "ingredients": [
+      "500 gr visfilet (zeebaars, wijting, koolvis, zalm)",
+      "250 gr visschelpen per persoon",
+      "4 rauwe gamba's",
+      "4 tenen look (knoflook)",
+      "1 venkel",
+      "400 gr gepelde tomaten (blokjes, blik)",
+      "4 sjalotten",
+      "700 ml visbouillon",
+      "50 ml ricard",
+      "Klein potje tomatenpuree",
+      "Schil van appelsien: 3 dunne sneetjes",
+      "1/2 steranijs",
+      "3 blaadjes laurier",
+      "Dille",
+      "Saffraan",
+      "Cayennepeper",
+      "Peper, zout, olijfolie",
+      "Frans brood",
+      "Paprikapoeder",
+      "1/2 rode paprika",
+      "Verse mayonaise (stevig, weinig of geen azijn) - voor de rouille"
+    ],
+    "steps": [
+      "Pel de sjalotten en snijd ze grof. Pel en snipper de knoflook. Snijd de venkel in stukjes.",
+      "Verwarm voldoende olijfolie in een hoge pan tot er 'putjes' op het oppervlak verschijnen. Fruit de ui, knoflook en venkel erin aan, ongeveer 5 minuten.",
+      "Voeg de tomaten, tomatenpuree (1 el), laurier, dille en saffraan toe. Laat even stoven.",
+      "Voeg de visbouillon, Ricard, schil van appelsien en steranijs toe. Laat 30 minuten sudderen op laag vuur. (Dit kan de dag voordien gemaakt worden.)",
+      "Voeg de vis en schaaldieren toe. Laat de soep nog ongeveer 10 minuten zachtjes doorkoken.",
+      "Breng op smaak met cayennepeper, peper, zout en dille.",
+      "Rouille: rooster 1/2 rode paprika in de oven op grill (150°) op zilverpapier tot bijna zwart, ontvel, snijd en mix met look, 1/2 tl tomatenpuree en olijfolie. Meng dit met de verse mayonaise.",
+      "Serveer de bouillabaisse met Frans brood en de rouille."
+    ],
+    "notes": "Kookclub 18/11/2017. Geproefde wijnen bij deze maaltijd: Pinot Gris 2015 (Alsace), Bourgogne Grand Ordinaire Blanc (Maison Chausseron), Beaune Clos de la Maladière 2014 (Domaine Cauvard), Pounamu Sauvignon Blanc (Marlborough, Nieuw-Zeeland) — twee flessen. Bij de rode gerechten/kaas: Bagueri Superior Merlot Goriška Brda 2012 (twee flessen), Maipe Reserve Malbec (organic), Renwood Old Vine Zinfandel (Amador)."
+  },
+  {
+    "id": "tarte-tatin",
+    "title": "Tarte Tatin",
+    "category": "Dessert",
+    "tags": ["appel", "gebak", "frans"],
+    "time": "45 min",
+    "servings": 4,
+    "ingredients": [
+      "6 stevige appels",
+      "1 vel bladerdeeg",
+      "100 gr witte suiker",
+      "100 gr rietsuiker",
+      "1 vanillestok",
+      "1 kaneelstokje",
+      "2 steranijs",
+      "1 tonkaboon",
+      "1/2 limoen (sap)",
+      "2 el gezouten boter",
+      "Voor gewone karamel (alternatief): 150 gr suiker, 60 gr boter, scheutje water"
+    ],
+    "steps": [
+      "Gepimpte karamel: smelt de witte suiker en rietsuiker samen in een steelpannetje. Voeg de pitjes van de vanillestok, het kaneelstokje, de steranijs en de tonkaboon toe.",
+      "Wanneer de karamel de gewenste kleur heeft, voeg het limoensap toe. Voeg er nog twee lepels gezouten boter aan toe en zeef de karamel.",
+      "Schil de appels, verwijder het klokhuis met een appelboor en snijd ze doormidden.",
+      "Leg de halve appels in de pan met de karamel. Giet er gesmolten boter over.",
+      "Leg het bladerdeeg over de appels, maak het lichtjes vast aan de randen en prik er een paar gaatjes in.",
+      "Bak ongeveer 30 minuten in de oven op 180°C.",
+      "Haal uit de oven, zet een bord op de pan en draai voorzichtig om."
+    ],
+    "notes": "Kookclub 18/11/2017. Gewone karamel als alternatief: suiker laten smelten met water tot goudgele kleur, een klein scheutje water toevoegen, van het vuur halen en de boter erin laten smelten."
+  }
+]
+[
+  {
     "id": "risotto-pantalon-del-mar",
     "title": "Risotto 'Pantalon del Mar'",
     "category": "Hoofdgerecht",
