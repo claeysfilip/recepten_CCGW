@@ -394,7 +394,7 @@
       "Doe het mengsel in een spuitzak en spuit toefjes.",
       "Warm de toefjes op in de oven vlak voor het opdienen."
     ],
-    "notes": "Kookavond 26 januari. Hoort bij de hertenfilet met wildsaus."
+    "notes": "Kookavond 26 januari. Hoort bij de hertenfilet met wildsaus. Opgelet: Je kan nooit te weinig pommes duchesses hebben!"
   },
   {
     "id": "appelbeignets-karamelsaus",
@@ -648,8 +648,8 @@
     "notes": "Menu Patrick 14/01 (Aziatisch). Hoeveelheid vis en olie stonden niet in het origineel; basmatirijst stond niet op de ingrediëntenlijst maar is wel nodig om te serveren."
   },
   {
-    "id": "rijstepap",
-    "title": "Rijstepap",
+    "id": "rijstpap",
+    "title": "Rijstpap",
     "category": "Dessert",
     "tags": [
       "rijst",
@@ -941,6 +941,7 @@
       "gegrild"
     ],
     "time": "20 min + marineren",
+    "image": "images/gamba.jpg",
     "ingredients": [
       "Gamba's (hoeveelheid niet vermeld)",
       "Veel look",
